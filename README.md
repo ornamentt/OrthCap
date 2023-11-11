@@ -1,5 +1,5 @@
 # Orthogonal-Capsnet
 
-This is an official code for ICLR2024 Orthogonal Capsule Network
+This is an official code for CVPR2024 OrthCaps
 
-The code will be released soon
+The code will be released after the paper acceptance
