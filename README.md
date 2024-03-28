@@ -1,4 +1,4 @@
-# Orthogonal-Capsnet
+# OrthCaps
 
 This is an official code for CVPR2024 OrthCaps
 
